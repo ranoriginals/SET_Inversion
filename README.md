@@ -1,2 +1,5 @@
 # SET_Inversion
-Fortran Code Debug
+
+Program -- 反演程序
+
+work -- 实际工作目录
